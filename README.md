@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...HPC, Golang, Linux internals, Compiler (GCC, GDB etc)
 - 🌱 I’m currently learning ... Golang
 - 💞️ I’m looking to collaborate on ... HPC
-- 📫 How to reach me ... vineet.sharma@hcl.com
+- 📫 How to reach me ... vineet.sharma@hcltech.com
 
 <!---
 vsharma23/vsharma23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
